@@ -5,9 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class DiceTaskApplication {
-
-	public static void main(String[] args) {
-		SpringApplication.run(DiceTaskApplication.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(DiceTaskApplication.class, args);
+    }
 }
+
